@@ -30,10 +30,10 @@
 </div>
 
 ---
-<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=hilyas&theme=neon-palenight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hilyas&theme=neon-palenight&hide_border=true&locale=ar&mode=weekly)](https://git.io/streak-stats)
-</div>
+
 ---
 <!--
 ![hilyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=hilyas&&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
