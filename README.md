@@ -29,14 +29,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
----
 <!--
+---
 [![GitHub Streak](https://streak-stats.demolab.com?user=hilyas&theme=neon-palenight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hilyas&theme=neon-palenight&hide_border=true&locale=ar&mode=weekly)](https://git.io/streak-stats)
 -->
 
----
 <!--
+---
 ![hilyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=hilyas&&theme=onedark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilyas&hide_progress=true)
 -->
